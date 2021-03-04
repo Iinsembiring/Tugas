@@ -1,5 +1,5 @@
-a = 6
-b = 2
-c= a / b
+p = 6
+l = 2
+L = p * l
 
-print(c)
+print(L)
