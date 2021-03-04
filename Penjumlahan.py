@@ -1,5 +1,5 @@
-a = 5
-b = 7
-c= a * b
+a = 6
+b = 2
+c= a / b
 
 print(c)
